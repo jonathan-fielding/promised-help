@@ -4,7 +4,7 @@ Promised help is a series of helpers for native es6 promises
 
 ## Install
 
-npm install promised-help --save
+```npm install promised-help --save```
 
 ## Avaliable helpers
 
@@ -14,9 +14,9 @@ npm install promised-help --save
 
 #### Usage
 
-var p = require('promised-help');
+```var p = require('promised-help');
 var title = p.key(promise, 'title');
 
 title.then(function(response) {
-	console.log(response); // the title key will be logged to the console
-});
+    console.log(response); // the title key will be logged to the console
+});```
