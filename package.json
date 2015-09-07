@@ -1,6 +1,6 @@
 {
   "name": "promised-help",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Promised help is a series of helpers for native es6 promises",
   "main": "index.js",
   "scripts": {
