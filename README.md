@@ -14,9 +14,9 @@ Promised help is a series of helpers for native es6 promises
 
 #### Usage
 
-``` var p = require('promised-help');
+<pre><code>var p = require('promised-help');
 var title = p.key(promise, 'title');
 
 title.then(function(response) {
     console.log(response); // the title key will be logged to the console
-}); ```
+});</code></pre>
