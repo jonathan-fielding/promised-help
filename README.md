@@ -4,7 +4,7 @@ Promised help is a series of helpers for native es6 promises
 
 ## Install
 
-```npm install promised-help --save```
+<pre><code>npm install promised-help --save</code></pre>
 
 ## Avaliable helpers
 
